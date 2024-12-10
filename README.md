@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BrandonMarias
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning React js and Angular
+- 👀 I’m interested in JS developer
 - 📫 How to reach me brandonandresmd@gmail.com
 
 <!---
