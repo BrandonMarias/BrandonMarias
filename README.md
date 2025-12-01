@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrandonMarias
-- 👀 I’m interested in JS developer
+- 👀 I’m interested in software developer
 - 📫 How to reach me brandonandresmd@gmail.com
 
 <!---
